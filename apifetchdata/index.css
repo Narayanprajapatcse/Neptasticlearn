@@ -1,0 +1,26 @@
+.box{
+    margin: auto;
+    border: 2px solid blue;
+    max-width: 600px;
+    background-color: bisque;
+  
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+}
+button{
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+input{
+    padding: 20px;
+    margin: 20px;
+}
+.data{
+ margin-top: 20px;   
+}
